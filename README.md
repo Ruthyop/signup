@@ -1,2 +1,2 @@
 # sign-up
-https://github.com/Ruthyop/signup.git
+https://ruthyop.github.io/sign-up/ visit site..
